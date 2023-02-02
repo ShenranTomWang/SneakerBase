@@ -1,3 +1,4 @@
+## This project is currently having issues migrating from my university account to this personal account. The university repository is https://github.students.cs.ubc.ca/CPSC304-2022W-T1/project_p4j2b_u0c2b_v1b0t
 # Sneaker Base
 Many shoes have a story behind them just like any other famous fashion products, some contains historic meanings, some were tributes to the greats. Sneaker Base is a place for both the sneaker lovers and non-sneaker heads to have a detailed website that displays the culture behind the sneaker industry. The Sneaker Base provide a platform for all users who have an interested in the sneaker culture, Story, Insperation, Designer, Purpose, and much more. To many people, shoes are just a tool of living. However since the development of technology alongside the influence from popular culture, sneaker culture nowadays have grown into a mainstream popular sector which bonds young people towards sports and the fashion industry.
 
